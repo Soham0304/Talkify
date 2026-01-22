@@ -1,5 +1,5 @@
 import { useState } from "react";
-import AppLayout from "@/layouts/AppLayout";
+import AppLayout from "@/layout/AppLayout";
 import ChatWindow from "@/components/chat/ChatWindow";
 import { currentUser, chats } from "@/data/mockData";
 import { Chat as ChatType } from "@/types/chat";
